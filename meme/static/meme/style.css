@@ -1,0 +1,17 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat right bottom;
+}
+
+
+
+body {
+	
+    font-size: 200%;
+    line-height: 1.7em;
+    font-family: Proxima Nova, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+}
